@@ -1,4 +1,4 @@
-# Secretsmanager Extension
+# Secrets Manager Extension
 
 The Secrets Manager Connector allows you to fetch secret values hosted in Amazon's Secrets Manager. Right now, this is designed to be used in an environment where the AWS Access Keys and Secret Keys are already set and in place.
 
